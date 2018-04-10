@@ -1,0 +1,3 @@
+lame.py 是lame的python sdk  向用户直接提供
+lame.sample.py： lame sdk 简单事例，向用户提供
+lame.scanner.py ： 用lame sdk 写的一个扫描器 类似于conscanx 测试使用
